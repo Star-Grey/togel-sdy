@@ -1,0 +1,16 @@
+{
+  "name": "bocoran-admin-riki",
+  "theme": "ui",
+  "version": "0.2.0",
+  "description": "bocoran admin riki",
+  "keywords": [
+    "bocoran admim riki",
+    "pola gacor",
+    "jam gacor"
+  ],
+  "repository": "https://github.com/kimbkiong/bocoran-admin-riki",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
